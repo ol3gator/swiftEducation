@@ -1,0 +1,6 @@
+framework module Pods_BirthdayApp {
+  umbrella header "Pods-BirthdayApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
